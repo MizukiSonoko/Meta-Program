@@ -9,3 +9,6 @@ Githubで小説を管理したらどうなるのかと言う興味でこのRepos
 ## License
 Copyright (c) 2015 Sonoko Mizuki
 Released under the MIT license
+
+[LICENSE](https://github.com/MizukiSonoko/Meta-Program/blob/master/LICENSE)
+
