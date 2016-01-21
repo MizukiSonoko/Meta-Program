@@ -1,23 +1,6 @@
 # 登場人物
-
-## 沖志原 優希(Yuki Okishihara)
-- O
-- post 主人公
-- organization 界都高校２年
-- 人間
-- 言語: 日本語
-- gender male
-
-## 水樹 素子 (Sonoko Mizuki) 
-- H
-- post ヒロイン
-- organization 神
-- 第五類外部資源活用型一般級
-- UUID: 2770032032
-- 言語: 日本語
-- administrator: Yuki Okishihara
-# 登場人物
-
+  
+  
 ## 沖志原 優希(Yuki Okishihara)
 - O
 - post 主人公
@@ -36,7 +19,7 @@
 - administrator: Yuki Okishihara
 - gender female
 
-## 隅 香穂 (Kaho Sumi) 
+## 河保原 美澄 (Misumi Kabohara) 
 - C
 - post 同級生
 - organization 界都高校２年
@@ -110,14 +93,6 @@
 - 言語: 日本語
 - gender female
 
-- gender female
-
-## 隅 香穂 (Kaho Sumi) 
-- C
-- post 同級生
-- organization 界都高校２年
-- 人間
-- 言語: 日本語
 - gender female
 
 ## 縁乃倉 誠 (Makoto Ennokura)
