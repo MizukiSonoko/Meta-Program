@@ -18,6 +18,8 @@
 - 言語: 日本語
 - administrator: Yuki Okishihara
 - gender female
+![Mizuki](https://s3-ap-northeast-1.amazonaws.com/mizukisonoko/mizuki_ison.png)
+
 
 ## 河保原 美澄 (Misumi Kabohara) 
 - C
@@ -26,6 +28,7 @@
 - 人間
 - 言語: 日本語
 - gender female
+
 
 ## 縁乃倉 誠 (Makoto Ennokura)
 - He
@@ -50,6 +53,7 @@
 - 人間
 - 言語: 日本語
 - gender female
+![Natori](https://s3-ap-northeast-1.amazonaws.com/mizukisonoko/natori.png)
 
 
 ## 智阿 留美子 (Rumiko Tia)
